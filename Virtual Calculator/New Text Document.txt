@@ -1,0 +1,7 @@
+Introduction :
+
+1) It is an offline virtual calculator designed for GATE aspirants.
+2) Click on "Gate Offline Virtual Calculator". It will open a calculator.
+3) Files in folder "rs" also required to run this offline virtual calculator.  
+
+Thanks and Regards,
